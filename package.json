@@ -1,0 +1,16 @@
+{
+  "name": "calculator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "author": "Brett Goldman",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "2.1.2",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.4.2"
+  }
+}
